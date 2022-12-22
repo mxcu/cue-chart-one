@@ -4,5 +4,5 @@ element: "Yttrium": {
 	symbol:       "Y"
 	atomicNumber: 39
 	description:  string @load(info.txt)
-	version:      "v0.0.0"
+	version:      "v0.1.0"
 }

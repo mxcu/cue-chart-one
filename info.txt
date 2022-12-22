@@ -1,1 +1,1 @@
-A silvery-metallic transition metal.
+A silvery-metallic transition metal. (v0.1.0)
